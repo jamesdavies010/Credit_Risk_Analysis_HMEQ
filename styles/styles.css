@@ -1,0 +1,11 @@
+/* Your CSS code here */
+* {
+    font-family: 'Latin Modern Roman 10', 'CMU Serif', 'Computer Modern', serif;
+    /* font-size: 18px !important; */
+    /* line-height: 1.5 !important; */
+}
+
+.cell .markdown h1, .cell .markdown h2, .cell .markdown h3,
+.cell .markdown h4, .cell .markdown h5, .cell .markdown h6 {
+    font-family: 'Latin Modern Roman 10', 'CMU Serif', 'Computer Modern', serif;
+}
